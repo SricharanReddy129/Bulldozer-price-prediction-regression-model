@@ -9,6 +9,6 @@ The project is inspired by the Blue Book for Bulldozers competition on Kaggle.
   3. LabelEncoder was equipped to engineer the categorical feature.
   4. The missing values were filled using SimpleImputer. Discrete data was filled with `median' and the categorical data was filled with `mode`.
      
-  - RandomForestRegressor algorithm was chosen for the model development.
-  - The Hyperparameter tuning was carried out by RandomSearchCV.
-  - The final model was assigned with the best parameters.
+- RandomForestRegressor algorithm was chosen for the model development.
+- The Hyperparameter tuning was carried out by RandomSearchCV.
+- The final model was assigned with the best parameters.
